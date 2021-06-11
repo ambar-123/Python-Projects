@@ -1,2 +1,2 @@
 # Python-Projects
-Beginners to Advance Projects
+Beginner to Advance Projects
